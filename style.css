@@ -1,3 +1,19 @@
+div{
+    width:200px;
+    height: 200px;
+    margin: 20px;
+    border : solid 2px;
+}
 
+.div1{
+    background-image: radial-gradient(lightblue, pink);
+}
 
+.div2{
+    background-image: repeating-radial-gradient(black, white 10px);
+}
 
+.div2:hover{
+    background-image: repeating-radial-gradient(white, black 10px);
+
+}
