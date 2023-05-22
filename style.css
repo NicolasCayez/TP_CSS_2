@@ -1,12 +1,21 @@
 h1{
     color:red;
+    text-align: center;
 }
 h2{
     color:blue;
     font-size: 1.5em;
 }
-.paragraphe1, .paragraphe2{
+.fondGris{
     background-color: grey;
+}
+.fondRose{
+    background-color: pink;
+}
+.article2 h2{
+    color: green;
+    text-decoration: underline;
+    text-align: right;
 }
 strong{
     font-weight:normal;
@@ -17,11 +26,5 @@ em{
     font-size: 1.3em;
     color: orange;
 }
-.paragraphe3{
-    background-color: pink;
-}
-.titreArticle2{
-    color: green;
-    text-decoration: underline;
-    text-align: right;
-}
+
+
